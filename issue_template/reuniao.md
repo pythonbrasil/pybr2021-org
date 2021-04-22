@@ -38,7 +38,7 @@ Atividade| Responsável | Link útil| Observações|
 
 ### Ações para serem realizadas
 
-Atividade| Responsável | Link útil|
- --| --| --|
+Atividade| Responsável | Link útil| Observações|
+ --| --| --|--|
 
 cc @<GitHub team do grupo de trabalho responsável pela reunião>
