@@ -3,7 +3,7 @@ name: Reunião
 about: Registro de reunião, desde a criação da pauta até registro das participantes
   e decisões tomadas
 title: "[Reunião] <Grupo de trabalho ou tema da reunião>: <Data>"
-labels: reuniao, python brasil 2021, pybr2021
+labels: reunião
 assignees: ''
 
 ---
@@ -14,9 +14,7 @@ _Este template deve ser editado com os itens a serem discutidos durante a reuni�
 
 - Data: <! –– data ––>  
 - Participantes:
-
-Capítulo| Nome e sobrenome | @GitHub ou e-mail (opcional) | 
- --| --| --|
+  - Nome e Sobrenome (@Github ou E-mail)
 
 ## Ata
 
