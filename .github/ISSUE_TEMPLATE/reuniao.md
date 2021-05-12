@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-_Este template deve ser editado com os itens a serem discutidos durante a reunião. Toda colaboração é bem vinda. Durante a reunião devem ser registradas as participantes e as decisões tomadas, caso hajam informações sensíveis, deve ser criado um apêncide no Google Drive do brasil@pyladies.com e o link inserido nessa issue. Após o encerramento, o grupo responsável pela reunião deve revisar as informações e fechar a issue em não mais do que uma semana._
+_Este template deve ser editado com os itens a serem discutidos durante a reunião. Toda colaboração é bem vinda. Durante a reunião devem ser registradas as participantes e as decisões tomadas, caso hajam informações sensíveis, deve ser criado um apêncide no Google Drive da organização da Python Brasil 2021 e o link inserido nessa issue. Após o encerramento, o grupo responsável pela reunião deve revisar as informações e fechar a issue em não mais do que uma semana._
 
 # Reunião <Grupo de trabalho ou tema da reunião>
 
