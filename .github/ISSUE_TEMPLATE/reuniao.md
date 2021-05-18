@@ -20,23 +20,27 @@ _Este template deve ser editado com os itens a serem discutidos durante a reuni�
 
 _Adicione os itens a serem discutidos durante a reunião. Certifique-se de que você estará presente na reunião, pois a ata só pode ser editada por quem a criou_
 
-### Acompanhamento das ações pendentes da última reunião
+### Acompanhamento das tarefas
 
-Atividade| Responsável | Link útil| Observações|
- --| --| --| --|
+- [ ] Verificar [tarefas bloqueadas](https://github.com/pythonbrasil/pybr2021-org/projects/1?card_filter_query=label%3Abloqueado):
+  - Está claro o que precisa ser feito para desbloquear a tarefa?
+  - Há parte da tarefa que pode prosseguir de alguma forma?
+- [ ] Verificar [tarefas em andamento](https://github.com/pythonbrasil/pybr2021-org/projects/1)
+  - A tarefa está associada a uma pessoa responsável?
+  - Há algo bloqueando o avanço da tarefa que possa ser discutido?
+- [ ] Verificar [tarefas abertas](https://github.com/pythonbrasil/pybr2021-org/issues?q=is%3Aopen+is%3Aissue+-project%3Apythonbrasil%2Fpybr2021-org%2F1+) não associadas ao projeto no Github.
+
 
 ### Itens a serem debatidos
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+Descrição | Link da Tarefa | Tempo para discussão |
+----------|--------|----------------------|
+--| #1 | -- |
+--| #2 | -- | 
+--| #3 | -- |
 
 
 ### Ações para serem realizadas
 
-Atividade| Responsável | Link útil| Observações|
+Atividade| Responsável | Link da Tarefa | Observações|
  --| --| --|--|
-
-cc @<GitHub team do grupo de trabalho responsável pela reunião>
