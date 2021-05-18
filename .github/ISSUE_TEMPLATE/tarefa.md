@@ -11,8 +11,7 @@ assignees: ''
 *Detalhe o que precisa ser feito na tarefa, contextualizando de tal forma que outra pessoa no time possa entender o que precisa ser feito.*
 
 
-### Definição de completo
-*Liste os items que são necessários para considerar a tarefa como completa.*
+### Requisitos para a atividade ser considerada como concluída
 
 *Por exemplo: "- Plano de patrocínio em PDF salvo no Drive da organização."*
 
