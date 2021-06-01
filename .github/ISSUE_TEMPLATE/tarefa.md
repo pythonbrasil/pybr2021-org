@@ -15,6 +15,7 @@ assignees: ''
 
 *Por exemplo: "- Plano de patrocínio em PDF salvo no Drive da organização."*
 
+- Verificar [acessibilidade das cores](https://www.toptal.com/designers/colorfilter/). Válido para atividades que dependem de imagem, como criação de artes e modificação do site.
 - Item 1
 - Item 2
 - Item 3
