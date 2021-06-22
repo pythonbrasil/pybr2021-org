@@ -35,9 +35,9 @@ _Adicione os itens a serem discutidos durante a reunião. Certifique-se de que v
 
 Descrição | Link da Tarefa | Tempo para discussão |
 ----------|--------|----------------------|
---| #1 | -- |
---| #2 | -- | 
---| #3 | -- |
+--| #x | -- |
+--| #y | -- | 
+--| #z | -- |
 
 
 ### Ações para serem realizadas
