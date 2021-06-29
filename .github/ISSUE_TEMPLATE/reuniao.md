@@ -35,4 +35,4 @@ _Adicione os itens que foram discutidos durante a reunião._
 
 ### Ações para serem realizadas
 
-- [ ] Atividade (@responsável)
+- Atividade (@responsável) - #issue
