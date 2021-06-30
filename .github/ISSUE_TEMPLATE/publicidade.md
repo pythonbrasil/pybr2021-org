@@ -9,6 +9,9 @@ assignees: 'cmdiasbr', 'martinsvanessa', 'cecivieira', 'deboraazevedo'
 
 ### Campanha
 *Informe a campanha a qual essa arte faz parte*
+  
+### Peça/publicidade solicitada
+*Objetivamente informe a arte/publicidade que você está solicitando*
 
 ### Detalhamento do uso
 *Descreva em detalhe para que essa arte será usada, exemplo: arte para divulgação dos tipos das atividades do evento, deverá existir um cartão para cada tipo*
@@ -20,16 +23,16 @@ assignees: 'cmdiasbr', 'martinsvanessa', 'cecivieira', 'deboraazevedo'
 *Informe as informações que você imagina que deva conter na arte*
 
 ### Quais formatos necessários
-- [] Quadrado
-- [] Retangular (instagram story)
-- [] Outro *(detalhe o formato necessário)*
+- [ ] Quadrado
+- [ ] Retangular (instagram story)
+- [ ] Outro *(detalhe o formato necessário)*
 
 ### Locais para divulgação
-- [] Redes sociais (twitter, facebook e instagram);
-- [] E-mail;
-- [] Discord PyBr2020;
-- [] Grupos do Telegram;
-- [] Eventos locais (Brasil + América Latina) (pedir 5min para falar sobre PyBR2021)
+- [ ] Redes sociais (twitter, facebook e instagram);
+- [ ] E-mail;
+- [ ] Discord PyBr2020;
+- [ ] Grupos do Telegram;
+- [ ] Eventos locais (Brasil + América Latina) (pedir 5min para falar sobre PyBR2021)
 
 > Ferramenta para verificar [acessibilidade das cores](https://www.toptal.com/designers/colorfilter/) em imagens.
 
