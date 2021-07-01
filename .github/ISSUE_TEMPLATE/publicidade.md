@@ -2,8 +2,8 @@
 name: Arte e publicidade
 about: Registro de arte a ser criada para divulgação da Python Brasil
 title: "<Tema da publicidade>"
-labels: 'Arte'
-assignees: 'cmdiasbr', 'martinsvanessa', 'cecivieira', 'deboraazevedo'
+labels: Arte
+assignees: cmdiasbr, martinsvanessa, cecivieira, deboraazevedo
 
 ---
 
