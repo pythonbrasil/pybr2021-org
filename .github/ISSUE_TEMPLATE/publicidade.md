@@ -3,6 +3,7 @@ name: Arte e publicidade
 about: Registro de arte a ser criada para divulgação da Python Brasil
 title: "<Tema da publicidade>"
 labels: Arte
+projects: PyBR 2021
 assignees: cmdiasbr, martinsvanessa, cecivieira, deboraazevedo
 
 ---
