@@ -10,19 +10,19 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 
 ## Informações consolidadas
 
-**Data:** 11 a 17 outubro de 2021
+**Data:** 11 a 17 outubro de 2021 ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/2))
 
 **Local:** Online
 
 **Plataformas:** Streamyard, Discord, Youtube (em contrução)
 
-**Estrutura da programação:**
+**Estrutura da programação:** ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/6))
 | Periodicidade | Atividades|
 | ------------- |-------------|
 |  seg. a sex. | 10h-12h Roda de diálogo<br /> 15h-17h Atividade de patrocinadoras no Discord <br /> 15h-19h05 4 trilhas (pt-br) e 1 trilha internacional (es) <br /> 19h10-20h Palestra instantânea<br /> 20h-21h30 Keynote |
 | sab. a dom.  | 10h-18h Sprints e tutoriais simultâneos |
 
-**Cronograma (previsto) de submissões:**
+**Cronograma (previsto) de submissões:** ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/14))
 - 12 jul.: abertura das submissões
 - 12 ago.: encerramento das submissões
 - 19 ago.: envio para avaliadoras de propostas anonimizadas
