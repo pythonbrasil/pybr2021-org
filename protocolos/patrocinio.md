@@ -1,11 +1,13 @@
-### 👀 Critérios de Avaliação do Patrocinador
+# Protocolo para recepção de patrocínio
+
+## 👀 Critérios de Avaliação do Patrocinador
 
 1. Existem questões em aberto PYBR? E com a APyBR?
 1. A prioridade: ordem de confirmação da assinatura do contrato
 1. Afinidade com o CdC 
 1. Priorizar empresas que estejam que tratem bem a comunidade (e mediante do Comitê de Patrocínio)
 
-### 🕵️‍♀️ Processo de avaliação do Patrocínio
+## 🕵️‍♀️ Processo de avaliação do Patrocínio
 
 - Primeiro contato com patrocinador
 - Agendamento reunião de apresentação
@@ -19,7 +21,7 @@
     - Assinatura do contrato
     - Início de divulgação e outras atividades definidas
 
-### ❓Perguntas - Reuniões
+## ❓Perguntas - Reuniões
 
 Se surgir uma pergunta mais difícil, anota a pergunta e avisa que vai enviar a resposta por email
 
