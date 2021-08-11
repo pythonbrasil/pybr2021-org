@@ -1,17 +1,17 @@
 # Roteiro para transmissão ao vivo:
 
-A comunicação entre as **Voluntárias de infraestrutura :desktop:**, **Apresentadoras :woman_juggling:** e palestrantes deverá ser realizado através do chat privado na plataforma StreamYard.
+A comunicação entre as **Voluntárias de infraestrutura :desktop_computer:**, **Apresentadoras :woman_juggling:** e palestrantes deverá ser realizado através do chat privado na plataforma StreamYard.
 
 ## Antes da palestra:
 
-**[Voluntária de infraestrutura :desktop: ]**
+**[Voluntária de infraestrutura :desktop_computer: ]**
 
 1. Informar para a palestrante e apresentadora que o contato será realizado pelo chat privado do StreamYard;
 2. Pedir para a palestrante **NÃO** abrir o Youtube e nem o Discord;
 3. Colocar o plano de fundo **“antes de começar”** e clicar em **"iniciar transmissão"** (a partir desse momento, tudo que for colocado na tela estará sendo transmitido ao vivo no youtube, muito cuidado!!);
 4. Colocar o contador do tempo para a palestra.
 
-- **Voluntária de infraestrutura :desktop:** deve alterar o plano de fundo para “banner principal” e adicionar a **Apresentadora :woman_juggling:** na tela antes do contador acabar.
+- **Voluntária de infraestrutura :desktop_computer:** deve alterar o plano de fundo para “banner principal” e adicionar a **Apresentadora :woman_juggling:** na tela antes do contador acabar.
 
 ## Intervalo:
 Após a finalização, automaticamente aparecerá **[Apresentadora :woman_juggling: ]** no plano de fundo com “banner principal” (BANNER A SER DEFINIDO).
@@ -25,7 +25,7 @@ Após a finalização, automaticamente aparecerá **[Apresentadora :woman_juggli
 4. Incentiva a contribuir com a campanha de doação para ONGs que trabalham com XXXX. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite;
 5. Anuncia a palestrante.
 
-**[Voluntária de infraestrutura :desktop: ]**
+**[Voluntária de infraestrutura :desktop_computer:]**
 
 - Insere palestrante na tela.
 
@@ -35,7 +35,7 @@ Após a finalização, automaticamente aparecerá **[Apresentadora :woman_juggli
 2. Dar boas vindas à palestrante, perguntar como ela está;
 3. Avisar que todas as dúvidas devem ser postadas em nosso canal do Discord; que toda a comunicação do evento também está ocorrendo por lá e que o link está na descrição do vídeo.
 
-**[Voluntária de infraestrutura :desktop: ]**
+**[Voluntária de infraestrutura :desktop_computer:]**
 1. Colocar banner com link para discord na tela;
 2. Colocar banner das redes sociais e hashtag.
 
@@ -47,7 +47,7 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 
 ## Durante a palestra:
 
-**[Voluntária de infraestrutura :desktop: ]**
+**[Voluntária de infraestrutura :desktop_computer:]**
 1. Remove **Apresentadora** :woman_juggling: da tela;
 2. Coloca apresentação da palestrante;
 
@@ -57,7 +57,7 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 
 ## Após a palestra (momento das perguntas):
 
-**[Voluntária de infraestrutura :desktop: ]**
+**[Voluntária de infraestrutura :desktop_computer:]**
 1. Coloca a **Apresentadora :woman_juggling:** na tela; 
 2. Remove a apresentação da palestrante;
 3. Informar para apresentadora quando restar apenas 5min para a próxima palestra.
@@ -68,5 +68,5 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 3. Agradece novamente a palestrante e as pessoas que assistiram; 
 4. Avisa que a programação volta depois do intervalo.
    
-**[Voluntária de infraestrutura :desktop: ]**  -  - Remove todo mundo da tela
+**[Voluntária de infraestrutura :desktop_computer:]**  -  - Remove todo mundo da tela
 - Insere contador
