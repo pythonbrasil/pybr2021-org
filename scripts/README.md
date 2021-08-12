@@ -45,3 +45,17 @@ O que o script faz com essa entrada?
 - Remove colunas referentes ao direito de imagem (colunas CC e CE no formulário de 2021)
 - Ordena o resultado por e-mail da pessoa submetedora
 - Obtém o indíce do nome de uma pessoa avalidadora para a submissão, utilizando o mesmo algoritmo do script anterior, porém adaptando o incremento conforme a quantidade de submissões. Neste código estamos usando `3`.
+
+## distribui_tutoriais.py
+
+Assim como o os dois scripts acima, este script espera como entrada a *planilha com as respostas dos formulários de submissão de atividades*. Ele funciona de forma muito semelhante, porém filtra as submissões de *tutoriais*, e logo, filtra também os campos relativos às perguntas deste tipo de atividade.
+
+O que o script faz com essa entrada?
+- Filtra apenas as submissões de tutoriais
+- Remove da planilha as colunas referentes à perguntas em português (do início até a coluna AG no formulário de 2021)
+- Remove espaços na coluna de e-mail da pessoa submetedora
+- Remove da planilha as colunas referentes à perguntas irrelevantes para a avaliação e perguntas referentes à submissões do tipo palestra (colunas E a AF no formulário de 2021)
+- Remove colunas referentes à sprints (da coluna AO até o final no formulário de 2021)
+- Remove coluna de timestamp e idioma (colunas A e B no formulário de 2021)
+- Ordena o resultado por e-mail da pessoa submetedora
+- Obtém o indíce do nome de uma pessoa avalidadora para a submissão, utilizando o mesmo algoritmo do script anterior, porém adaptando o incremento conforme a quantidade de submissões. Neste código estamos usando `9`.
