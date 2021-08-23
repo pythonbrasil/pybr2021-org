@@ -32,5 +32,6 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 - 07 set.: limite para responder ao e-mail de contato
 - ----- acho bom darmos um dia para nos organizarmos aqui. Não é só chamar as próximas palestras, também é necessário dar alguma atenção ao balanceamento de temas também em relação às palestras confirmadas. Eu deixaria um dia livre aqui para debates internos da organização.
 - 09 set.: envio de e-mail para segunda leva de pessoas cujas atividades foram selecionadas (cobrir vagas abertas)
+- 11 set.: data limite para abertura das inscrições
 - 13 set.: data limite para responder ao e-mail de contato
 - 19 set.: publicação de programação
