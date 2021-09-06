@@ -35,3 +35,7 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 - 11 set.: data limite para abertura das inscrições
 - 13 set.: data limite para responder ao e-mail de contato
 - 19 set.: publicação de programação
+
+## Tecnologias utilizadas
+
+- [Gerador de artes individualizadas para divulgação de palestras](https://github.com/GabrielRF/pybr2021-Arte-Palestrantes/)
