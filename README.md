@@ -26,15 +26,15 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 - 12 jul.: abertura das submissões
 - 12 ago.: encerramento das submissões
 - 19 ago.: envio para avaliadoras de propostas anonimizadas
-- 26 ago.: limite para recebimento das avaliações
-- 02 set.: envio de e-mail para pessoas cujas atividades foram selecionadas
-- 06 set.: reenvio de e-mail para pessoas cujas atividades foram selecionadas
-- 07 set.: limite para responder ao e-mail de contato
+- 31 ago.: limite para recebimento das avaliações
+- 08 set.: envio de e-mail para pessoas cujas atividades foram selecionadas
+- 10 set.: reenvio de e-mail para pessoas cujas atividades foram selecionadas
+- 13 set.: limite para responder ao e-mail de contato
 - ----- acho bom darmos um dia para nos organizarmos aqui. Não é só chamar as próximas palestras, também é necessário dar alguma atenção ao balanceamento de temas também em relação às palestras confirmadas. Eu deixaria um dia livre aqui para debates internos da organização.
-- 09 set.: envio de e-mail para segunda leva de pessoas cujas atividades foram selecionadas (cobrir vagas abertas)
+- 15 set.: envio de e-mail para segunda leva de pessoas cujas atividades foram selecionadas (cobrir vagas abertas)
+- 20 set.: data limite para responder ao e-mail de contato
 - 11 set.: data limite para abertura das inscrições
-- 13 set.: data limite para responder ao e-mail de contato
-- 19 set.: publicação de programação
+- 30 set.: publicação de programação
 
 ## Tecnologias utilizadas
 
