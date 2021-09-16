@@ -39,3 +39,4 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 ## Tecnologias utilizadas
 
 - [Gerador de artes individualizadas para divulgação de palestras](https://github.com/GabrielRF/pybr2021-Arte-Palestrantes/)
+- [Gerador de artes individualizadas para divulgação de palestras e certificados - Integrado com o Google sheets](https://github.com/gabubellon/certificates-google-sheets-generator)
