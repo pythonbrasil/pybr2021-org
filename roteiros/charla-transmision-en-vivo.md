@@ -1,71 +1,72 @@
 # Guión para la transmición en vivo
 
-La comunicación entra la **Voluntaria de infraestrutura :desktop:**, **la anfitriona :woman_juggling:** y las ponentes debe ser siempre realizado a través de un chat privado por StreamYard.
+La comunicación entre la **Voluntaria de infraestructura :desktop:**, **la anfitriona :woman_juggling:** y las ponentes será siempre realizado a través de un chat privado por StreamYard.
 
 ## Antes de la charla
 
-**[Voluntaria de infraestrutura :desktop: ]**
+**[Voluntaria de infraestructura :desktop: ]**
 
-- Informar a la ponente y presentadora que el contacto será realizado por el chat privado de StreamYard.
-- Pedir a la ponente que NO mire Youtube, tampoco el Discord.
-- Coloca o plano de fundo “antes de começar” e clica em iniciar transmissão (a partir desse momento, tudo que for colocado na tela estará sendo transmitido ao vivo no youtube, muito cuidado!!).
-- Colocar o contador do tempo restante para a palestra .
+- Informa a la ponente y presentadora que la comunicación será a través del chat privado de StreamYard.
+- Pide a la ponente que NO mire Youtube, ni Discord.
+- Pone el fondo “antes de empezar” y hace clic en iniciar la transmisión (a partir de ese momento, todo lo que se coloque en la pantalla se transmitirá en vivo en youtube, ¡¡cuidado !!).
+- Pone el cronómetro con el tiempo restante para la charla.
 
-- **Voluntária de infraestrutura :desktop:** já deve alterar o plano de fundo para “banner principal” e adicionar a **Apresentadora :woman_juggling:**  na tela antes do contador acabar.
+- **Voluntaria de infraestructura :desktop:** antes de que se acabe el tiempo marcado en el cronómetro debería cambiar el fondo a "banner principal" y añadir a la **Presentadora :woman_juggling:** a la pantalla.
 
-## Intervalo
-Contador acabou, automaticamente aparecerá **[Apresentadora :woman_juggling: ]** no plano de fundo com “banner principal” (BANNER A SER DEFINIDO).
+## Entretiempo
+El cronómetro ha terminado, automaticamente aparecerá la **[Presentadora :woman_juggling: ]** en segundo plano con el “banner principal” (BANNER POR DEFINIRSE).
 
-## Introdução da palestra
+## Introducción a la charla
 
-**[Apresentadora :woman_juggling: ]**
-1. Cumprimenta as pessoas e dá boas vindas ao evento Python Brasil 2021 e agradece a participação de todas. 
-2. Se apresenta.
-3. Realiza a autodescrição (exemplo: Sou uma mulher negra, meus cabelos são cacheados e estão soltos, uso óculos e estou usando uma blusinha de alça estampada). Descreva apenas como você está se vendo no vídeo, a ideia é que todas as pessoas saibam o que está aparecendo na tela.
-4. Incentiva a contribuir com a campanha de doação para ONGs que trabalham com XXXX. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite
-5. Anuncia a palestrante
+**[Presentadora :woman_juggling: ]**
+1. Saluda a la gente, da la bienvenida al evento Python Brasil 2021 y agradece a todas por su participación. 
+2. Se presenta.
+3. Realiza una autodescripción (ejemplo: soy una mujer negra, mi cabello es rizado y suelto, llevo gafas y una camiseta sin mangas estampada). Solo describe como se ve en el video, la idea es que sepan lo que hay en la pantalla.
+4. Anima a contribuir con la campaña de donaciones para las ONG que trabajan con XXXX. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
+5. Anuncia a la ponente.
 
-**[Voluntária de infraestrutura :desktop: ]**
-- Insere palestrante na tela
+**[Voluntaria de infraestructura :desktop: ]**
+- Añade a la ponente en la pantalla.
 
-**[Apresentadora :woman_juggling: ]**
+**[Presentadora :woman_juggling: ]**
 
-1. Apresenta a palestrante e ler mini biografia da pessoa
-2. Dá boas vindas à palestrante, pergunta como ela está.
-3. Avisa que todas as dúvidas devem ser postadas no nosso canal do discord, que toda a comunicação do evento também está ocorrendo por lá e que o link está na descrição do vídeo 
+1. Presenta a la ponente y lee una pequeña biografía suya.
+2. Da la bienvenida a la ponente, le pregunta cómo está.
+3. Informa que todas las dudas deben ser publicadas en nuestro canal de Discord, que toda la comunicación sobre el evento también se está llevando a cabo allí y que el enlace está en la descripción del video.
 
-**[Voluntária de infraestrutura :desktop: ]**
-1. Colocar banner com link para discord na tela
-2. Colocar banner das redes sociais e hashtag
+**[Voluntaria de infraestructura :desktop: ]**
+1. Añade un banner con un enlace a Discord en la pantalla.
+2. Añade un banner y el hastag de las redes sociales.
 
-**[Apresentadora :woman_juggling: ]**
-1. Convida para acompanhar através das redes sociais que também está na descrição do vídeo, e lembra de utilizar a hashtag #pybr2021.
-Avisar que a programação do evento pode ser encontrada no site 2021.pythonbrasil.org.br
-2. Anuncia o nome da palestra.
-3. Passa a palavra ao palestrante e deseja boa palestra
+**[Presentadora :woman_juggling: ]**
+1. Invita a seguir a través de las redes sociales, que también están en la descripción del video, y recuerda utilizar el hashtag # pybr2021.
+Informa que toda la programación del evento se puede encontrar en la web 2021.pythonbrasil.org.br
+2. Anuncia el nombre de la charla.
+3. Da la palabra a la ponente y le desea suerte en la charla.
 
-## Durante a palestra
+## Durante la charla
 
-**[Voluntária de infraestrutura :desktop: ]**
-1. Remove **Apresentadora** :woman_juggling: da tela 
-2. Coloca apresentação da palestrante.
+**[Voluntaria de infraestructura :desktop: ]**
+1. Remueve a la **Presentadora** :woman_juggling: de la pantalla.
+2. Añade la presentación de la ponente.
 
-**[Apresentadora :woman_juggling: ]**
-1. Coleta as perguntas que aparecerem no canal do Discord sobre a trilha.
-2. Controla o tempo da palestra, informando para a palestrante o tempo restante a partir de 15min.
+**[Presentadora :woman_juggling: ]**
+1. Recopila las preguntas que aparecen en el canal de Discord sobre la **charla**.
+2. Controla el tiempo de la charla, informando a la ponente el tiempo restante a partir de 15min.
 
-## Após a palestra (momento das perguntas)
+## Después de la charla (momento de preguntas)
 
-**[Voluntária de infraestrutura :desktop: ]**
-1. Coloca a **Apresentadora :woman_juggling:** na tela 
-2. Remove a apresentação da palestrante
-3. Informar para apresentadora quando restar apenas 5min para a próxima palestra.
+**[Voluntaria de infraestructura :desktop: ]**
+1. Añade a la **Presentadora :woman_juggling:** a la pantalla.
+2. Remove la presentación de la ponente.
+3. Informa a la Presentadora cuando quedan 5min para la próxima charla.
 
-**[Apresentadora :woman_juggling: ]**
-1. Parabeniza e agradece a palestrante. 
-2. Fazer as perguntas selecionadas do Discord.
-3. Agradece novamente a palestrante e as pessoas que assistiram 
-4. Avisa que a programação volta depois do intervalo.
+**[Presentadora :woman_juggling: ]**
+1. Felicita y agradece a la ponente. 
+2. Hace las preguntas seleccionadas del Discord.
+3. Agradece nuevamente a la ponente y a las personas que asistieron.
+4. Informa el horario de regreso después del descanso.
    
-**[Voluntária de infraestrutura :desktop: ]**  -  - Remove todo mundo da tela
-- Insere contador
+**[Voluntaria de infraestructura :desktop: ]**  
+- Elimina a todo el mundo de la pantalla.
+- Añade el cronómetro.
