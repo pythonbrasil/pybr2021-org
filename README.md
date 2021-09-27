@@ -17,10 +17,18 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 **Plataformas:** Streamyard, Discord, Youtube (em contrução)
 
 **Estrutura da programação:** ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/6))
-| Periodicidade | Atividades|
-| ------------- |-------------|
-|  seg. a sex. | 10h-12h Roda de diálogo<br /> 15h-17h Atividade de patrocinadoras no Discord <br /> 15h-19h05 4 trilhas (pt-br) e 1 trilha internacional (es) <br /> 19h10-20h Palestra instantânea<br /> 20h-21h30 Keynote |
-| sab. a dom.  | 10h-18h Sprints e tutoriais simultâneos |
+|                | segunda-feira      | terça-feira        | quarta-feira       | quinta-feira       | sexta-feira      |  sábado           | domingo           |
+| -------------- | ------------------ | ------------------ | ------------------ | ------------------ | ---------------- | ----------------- | ----------------- |
+| 10:00 às 12:00 | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa |                   |                   |
+| 12:00 às 13:30 |                    |                    |                    |                    |                  |                   |                   |
+| 13:30 às 15:00 |                    |                    |                    |                    |                  |                   |                   |
+| 15:00 às 15:50 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         |                   |                   |
+| 15:50 às 16:40 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         | Sprint / Tutorial | Sprint / Tutorial |
+| 16:40 às 17:30 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         |                   |                   |
+| 17:30 às 19:00 |                    |                    |                    |                    |                  |                   |                   |
+| 19:00 às 19:50 | Palestra           | Palestra           | Palestra           | Palestra           | Keynote          |                   |                   |
+| 19:50 às 20:30 | Palestra Relâmpago | Palestra Relâmpago | Palestra Relâmpago | Palestra Relâmpago | Encerramento     |                   |                   |
+| 20:30 às 21:30 | Keynote            | Keynote            | Keynote            | Keynote            | Prêmio Dorneles  |                   |                   |
 
 **Cronograma (previsto) de submissões:** ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/14))
 - 12 jul.: abertura das submissões
