@@ -19,12 +19,12 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 **Estrutura da programação:** ([issue](https://github.com/pythonbrasil/pybr2021-org/issues/6))
 |                | segunda-feira      | terça-feira        | quarta-feira       | quinta-feira       | sexta-feira      |  sábado           | domingo           |
 | -------------- | ------------------ | ------------------ | ------------------ | ------------------ | ---------------- | ----------------- | ----------------- |
-| 10:00 às 12:00 | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa |                   |                   |
-| 12:00 às 13:30 |                    |                    |                    |                    |                  |                   |                   |
+| 10:00 às 12:00 | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa   | Roda de Conversa | Sprint / Tutorial | Sprint / Tutorial |
+| 12:00 às 13:30 |                    |                    |                    |                    |                  | Sprint / Tutorial | Sprint / Tutorial |
 | 13:30 às 15:00 |                    |                    |                    |                    |                  |                   |                   |
-| 15:00 às 15:50 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         |                   |                   |
+| 15:00 às 15:50 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         | Sprint / Tutorial | Sprint / Tutorial |
 | 15:50 às 16:40 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         | Sprint / Tutorial | Sprint / Tutorial |
-| 16:40 às 17:30 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         |                   |                   |
+| 16:40 às 17:30 | Palestra           | Palestra           | Palestra           | Palestra           | Palestra         | Sprint / Tutorial | Sprint / Tutorial |
 | 17:30 às 19:00 |                    |                    |                    |                    |                  |                   |                   |
 | 19:00 às 19:50 | Palestra           | Palestra           | Palestra           | Palestra           | Keynote          |                   |                   |
 | 19:50 às 20:30 | Palestra Relâmpago | Palestra Relâmpago | Palestra Relâmpago | Palestra Relâmpago | Encerramento     |                   |                   |
