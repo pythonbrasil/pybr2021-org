@@ -48,3 +48,4 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 
 - [Gerador de artes individualizadas para divulgação de palestras](https://github.com/GabrielRF/pybr2021-Arte-Palestrantes/)
 - [Gerador de artes individualizadas para divulgação de palestras e certificados - Integrado com o Google sheets](https://github.com/gabubellon/certificates-google-sheets-generator)
+- [Cria página da programação no site do evento](https://github.com/rougeth/calendaryo)
