@@ -95,12 +95,12 @@ Se uma pessoa infratora quiser apelar da decisão, notifique-a de que ela pode e
 É muito importante como lidamos com o incidente publicamente. Nossa política é garantir que todos os que estão cientes do incidente inicial também estejam cientes de que não está de acordo com a política e que uma ação oficial foi tomada - respeitando a privacidade dos participantes individuais. 
 
 Ao falar com pessoas (aqueles que estão cientes do incidente, mas não estiveram envolvidos nele) sobre o incidente, é uma boa ideia manter oculto os detalhes da situação.
-
+s
 Dependendo do incidente, o responsável geral da conferência ou outro responsável pode decidir fazer um ou mais anúncios públicos. Se necessário, isso será feito com um breve anúncio durante o evento e/ou por outros meios de comunicação/canais. Ninguém, a não ser o responsável geral da conferência ou alguém com autoridade delegada por ele, deve fazer qualquer anúncio.
 
 Se alguns participantes ficaram irritados com o incidente, é melhor pedir desculpas a eles. Se houver ressentimentos residuais, sugira que eles escrevam um e-mail para o responsável geral da conferência listado abaixo. Isso será tratado em conformidade.
 
-- Alynne Ferreira - Responsável Geral pela Python Brasil 2021 (e-mail: A DEFINIR)
+- Alynne Ferreira - Responsável Geral pela Python Brasil 2021 (e-mail: alynneferreiras@gmail.com)
 
 ------------------------
 Este código de conduta foi adaptado a partir do definido pela PyCon US.
