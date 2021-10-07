@@ -1,6 +1,32 @@
 # Roteiro para palestras relâmpago
 
-TODO
+- coloca a pessoa e o slide se tiver
+- cronometra 5 minutos
+- tira a pessoa e o slide se passar o tempo
+
+**Voluntárias de infraestrutura :desktop_computer:** coloca a **Apresentadora :woman_juggling:** na tela
+
+**Apresentadora :woman_juggling:**
+1. Dá boa noite
+2. Explica o que é a palestra relâmpago
+    - Palestras com duração de 5 minutos, sobre qualquer assunto, desde que não infrinja o Código de Conduta. Pode ou não ter slide.
+3. Explica como funciona
+    - As inscrições ficam abertas por um tempo no servidor do Discord, no canal #quero-participar
+    - As pessoas interessadas clicam no emoji
+    - O bot envia o link do Stream Yard para elas
+    - Precisam responder e entrar no Stream Yard em até 3 minutos
+4. Chama a participante
+
+
+**Voluntárias de infraestrutura :desktop_computer:**
+
+1. Coloca a pessoa e o slide (se tiver) na tela
+2. Tira a **Apresentadora :woman_juggling:** da tela
+3. Quando der 5 minutos, tira o participante e o slide da tela e adiciona a **Apresentadora :woman_juggling:**
+
+No fim das palestras-relâmpago
+1. **Apresentadora :woman_juggling:** avisa que vai começar o Keynote logo após os vídeos institucionais dos patrocinadores ouro
+2. **Voluntárias de infraestrutura :desktop_computer:** tira a **Apresentadora :woman_juggling:** da tela
 
 ## Intervalo:
 Após a finalização, **Voluntárias de infraestrutura :desktop_computer:** colocam os vídeos institucionais dos patrocinadores ouro.
@@ -76,5 +102,4 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 3. Agradece novamente a Keynote e as pessoas que assistiram; 
 4. Avisa que a programação continua amanhã.
    
-
 
