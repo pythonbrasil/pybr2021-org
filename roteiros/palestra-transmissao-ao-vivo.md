@@ -58,7 +58,7 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 3. Remove **Apresentadora** :woman_juggling: da tela;
 4. Coloca a intérprete de LIBRAS na imagem acima da palestrante.
 
-IMAGEM IMAGEM IMAGEM IMAGEM
+![image](https://github.com/pythonbrasil/pybr2021-org/blob/main/roteiros/assets/CleanShot%202021-10-11%20at%2000.34.28.gif)
 
 **[Apresentadora :woman_juggling: ]**
 1. Coleta as perguntas que aparecerem no canal do Discord sobre a palestra;
