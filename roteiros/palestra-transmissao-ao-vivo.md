@@ -44,12 +44,10 @@ A comunicação entre as **Voluntárias de infraestrutura :desktop_computer:**, 
 1. Apresentar a palestrante e ler minibiografia da pessoa;
 2. Dar boas vindas à palestrante;
 3. Avisar que todas as dúvidas devem ser postadas em nosso canal do Discord e para ter acesso basta se inscrever no evento pelo EventBrite; o link está na descrição do vídeo.
-
-**[Apresentadora :woman_juggling: ]**
-1. Convida para acompanhar através das redes sociais @pythonbrasil e lembra de utilizar a hashtag #pybr2021;
+4. Convida para acompanhar através das redes sociais @pythonbrasil e lembra de utilizar a hashtag #pybr2021;
 Avisar que a programação do evento pode ser encontrada no site 2021.pythonbrasil.org.br;
-2. Anuncia o nome da palestra;
-3. Passa a palavra ao palestrante e deseja boa palestra.
+5. Anuncia o nome da palestra;
+6. Passa a palavra ao palestrante e deseja boa palestra.
 
 ## Durante a palestra:
 
