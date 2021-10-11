@@ -14,7 +14,10 @@ A comunicação entre as **Voluntárias de infraestrutura :desktop_computer:**, 
 ## Intervalo:
 1. Colocar a sobreposição **"Aguarde"** antes de começar a palestra;
 2. Garanta que o layout selecionado é o informado abaixo:
-3. IMAGEM IMAGEM IMAGEM IMAGEM IMAGEM---------------------
+
+![image](https://user-images.githubusercontent.com/7385097/136731254-2a2a7227-83f2-4805-870b-589f20f67041.png)
+
+
 4. 90 segundos antes de começar a palestra, acione o vídeo "90 SEGUNDOS". Caso a palestra esteja atrasada, acione o vídeo "30 SEGUNDOS"
 5. Durante o vídeo, adicione na tela a intérprete de Libras e a anfitriã. Também desative a sobreposição **"Aguarde"** 
 6. Quando terminar o vídeo, ele sumirá e as pessoas aparecerão na tela.
