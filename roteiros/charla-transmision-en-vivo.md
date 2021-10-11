@@ -7,23 +7,29 @@ La comunicación entre la **Voluntaria de infraestructura :desktop:**, **la anfi
 **[Voluntaria de infraestructura :desktop: ]**
 
 - Informa a la ponente y presentadora que la comunicación será a través del chat privado de StreamYard.
+- Solicicitar que la ponente comparta su pantalla
 - Pide a la ponente que NO mire Youtube, ni Discord.
-- Pone el fondo “antes de empezar” y hace clic en iniciar la transmisión (a partir de ese momento, todo lo que se coloque en la pantalla se transmitirá en vivo en youtube, ¡¡cuidado !!).
-- Pone el cronómetro con el tiempo restante para la charla.
-
-- **Voluntaria de infraestructura :desktop:** antes de que se acabe el tiempo marcado en el cronómetro debería cambiar el fondo a "banner principal" y añadir a la **Presentadora :woman_juggling:** a la pantalla.
+- Sugerir a la ponente que encienda un cronometro de 45 minutos en su celular (tiempo total de la charla)
 
 ## Entretiempo
-El cronómetro ha terminado, automaticamente aparecerá la **[Presentadora :woman_juggling: ]** en segundo plano con el “banner principal” (BANNER POR DEFINIRSE).
+1. Poner la sobreposición **"AGUARDE"** antes de empesar la charla
+2. Assegurese que el diseño seleccionado es lo mismo que se pone a continuacion:
+![image](https://user-images.githubusercontent.com/30605862/136805604-d848a392-0869-4f4c-9460-04de49695460.png)
+3. 90 segundos antes de empezar la charla, activar el video de **90 segundos**. Si la charla esté retrasada, activar el video de **"30 segundos**
+4. Mientras el video, añada en la pantalla la intérprete de señales y la presentadora. También desactive la sobreposición **"AGUARDE"**. Assim, Cuando termine el video las personas ya estarán en la pantalla
+
 
 ## Introducción a la charla
 
 **[Presentadora :woman_juggling: ]**
 1. Saluda a la gente, da la bienvenida al evento Python Brasil 2021 y agradece a todas por su participación. 
-2. Se presenta.
+2. Decir su nombre.
 3. Realiza una autodescripción (ejemplo: soy una mujer negra, mi cabello es rizado y suelto, llevo gafas y una camiseta sin mangas estampada). Solo describe como se ve en el video, la idea es que sepan lo que hay en la pantalla.
-4. Anima a contribuir con la campaña de donaciones para las ONG que trabajan con XXXX. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
-5. Anuncia a la ponente.
+
+([Voluntária de infraestrutura desktop_computer] 1 poner QR Code en la pantalla.)
+
+5. Anima a contribuir con la campaña de donaciones para las ONG "Mães da favela" que ayuda madres barrios pobres de Brasil. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
+6. Anuncia a la ponente.
 
 **[Voluntaria de infraestructura :desktop: ]**
 - Añade a la ponente en la pantalla.
@@ -32,14 +38,10 @@ El cronómetro ha terminado, automaticamente aparecerá la **[Presentadora :woma
 
 1. Presenta a la ponente y lee una pequeña biografía suya.
 2. Da la bienvenida a la ponente, le pregunta cómo está.
-3. Informa que todas las dudas deben ser publicadas en nuestro canal de Discord, que toda la comunicación sobre el evento también se está llevando a cabo allí y que el enlace está en la descripción del video.
-
-**[Voluntaria de infraestructura :desktop: ]**
-1. Añade un banner con un enlace a Discord en la pantalla.
-2. Añade un banner y el hastag de las redes sociales.
+3. Informa que todas las dudas deben ser publicadas en la seccion Bonnie Prado en el Discord del evento. Para tener acceso a ello, hace falta inscribirse en el evento.
 
 **[Presentadora :woman_juggling: ]**
-1. Invita a seguir a través de las redes sociales, que también están en la descripción del video, y recuerda utilizar el hashtag # pybr2021.
+1. Invita a seguir a través de las redes sociales (@pythonbrasil) y recuerda utilizar el hashtag # pybr2021.
 Informa que toda la programación del evento se puede encontrar en la web 2021.pythonbrasil.org.br
 2. Anuncia el nombre de la charla.
 3. Da la palabra a la ponente y le desea suerte en la charla.
@@ -47,23 +49,26 @@ Informa que toda la programación del evento se puede encontrar en la web 2021.p
 ## Durante la charla
 
 **[Voluntaria de infraestructura :desktop: ]**
-1. Remueve a la **Presentadora** :woman_juggling: de la pantalla.
-2. Añade la presentación de la ponente.
+1. Insere la presentación de la ponente en la pantalla
+2. Remueve a la **Presentadora** :woman_juggling: de la pantalla.
+3. Pone la interprete de señales arriba de la palestrante, como enseña el video a continuación:
+
+![image](https://github.com/pythonbrasil/pybr2021-org/blob/main/roteiros/assets/CleanShot%202021-10-11%20at%2000.34.28.gif)
+
 
 **[Presentadora :woman_juggling: ]**
 1. Recopila las preguntas que aparecen en el canal de Discord sobre la **charla**.
-2. Controla el tiempo de la charla, informando a la ponente el tiempo restante a partir de 15min.
+2. Controla el tiempo de la charla, informando a la ponente el tiempo restante a partir de 15min, a cada 5 min
 
 ## Después de la charla (momento de preguntas)
 
 **[Voluntaria de infraestructura :desktop: ]**
 1. Añade a la **Presentadora :woman_juggling:** a la pantalla.
 2. Remove la presentación de la ponente.
-3. Informa a la Presentadora cuando quedan 5min para la próxima charla.
 
 **[Presentadora :woman_juggling: ]**
 1. Felicita y agradece a la ponente. 
-2. Hace las preguntas seleccionadas del Discord.
+2. Si la charla no pasó de sus 45 minutos, se hace las preguntas seleccionadas del Discord.
 3. Agradece nuevamente a la ponente y a las personas que asistieron.
 4. Informa el horario de regreso después del descanso.
    
