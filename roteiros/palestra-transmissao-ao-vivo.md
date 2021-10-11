@@ -32,8 +32,9 @@ A comunicação entre as **Voluntárias de infraestrutura :desktop_computer:**, 
 (**[Voluntária de infraestrutura :desktop_computer:]** 
 1 colocar QR Code na tela.)
 
-5. Incentiva a contribuir com a campanha de doação para ONGs que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite; 
-6. Anuncia a palestrante.
+**[Apresentadora :woman_juggling: ]**
+4. Incentiva a contribuir com a campanha de doação para ONGs que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite; 
+5. Anuncia a palestrante.
 
 **[Voluntária de infraestrutura :desktop_computer:]**
 
