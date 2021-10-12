@@ -39,7 +39,8 @@ EN DUDA << Inserta la superposición **"Aguarde transmissão** >>
 ([Voluntária de infraestrutura desktop_computer] 1 poner QR Code en la pantalla.)
 
 5. Anima a contribuir con la campaña de donaciones para las ONG "Mães da favela" que ayuda madres barrios pobres de Brasil. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
-6. Anuncia a la ponente.
+6. Anuncia sobre charga relampagos e cadastro no canal #quero-participar
+7. Anuncia a la ponente.
 
 **[Voluntaria de infraestructura :desktop: ]**
 - Añade a la ponente en la pantalla.
