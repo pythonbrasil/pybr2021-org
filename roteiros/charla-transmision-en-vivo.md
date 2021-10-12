@@ -4,6 +4,16 @@ La comunicación entre la **Voluntaria de infraestructura :desktop:**, **la anfi
 
 ## Antes de la charla
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+⚠️⚠️NUNCA⚠️⚠️ HAGA CLIC EN ESTE BOTÓN SI NO ESTÁ CON LA ORGANIZACIÓN O NO ESTÁ SEGURO DE 
+
+
+![image](https://user-images.githubusercontent.com/7385097/136955832-dcf38e04-a684-4b54-a6b9-695826c5a297.png)
+
+EN DUDA << Inserta la superposición **"Aguarde transmissão** >>
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
 **[Voluntaria de infraestructura :desktop: ]**
 
 - Informa a la ponente y presentadora que la comunicación será a través del chat privado de StreamYard.
@@ -75,3 +85,13 @@ Informa que toda la programación del evento se puede encontrar en la web 2021.p
 **[Voluntaria de infraestructura :desktop: ]**  
 - Elimina a todo el mundo de la pantalla.
 - Añade el cronómetro.
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+⚠️⚠️NUNCA⚠️⚠️ HAGA CLIC EN ESTE BOTÓN SI NO ESTÁ CON LA ORGANIZACIÓN O NO ESTÁ SEGURO DE 
+
+
+![image](https://user-images.githubusercontent.com/7385097/136955832-dcf38e04-a684-4b54-a6b9-695826c5a297.png)
+
+EN DUDA << Inserta la superposición **"Aguarde transmissão** >>
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
