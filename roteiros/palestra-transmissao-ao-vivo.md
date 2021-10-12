@@ -4,6 +4,15 @@ A comunicação entre as **Voluntárias de infraestrutura :desktop_computer:**, 
 
 ## Antes da palestra:
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+**⚠️⚠️NUNCA⚠️⚠️ CLICK NESSE BOTÃO SE VOCÊ NÃO FOR DA ORGANIZAÇÃO OU NÃO TIVER CERTEZA SOBRE**
+
+![image](https://user-images.githubusercontent.com/7385097/136955832-dcf38e04-a684-4b54-a6b9-695826c5a297.png)
+
+NA DÚVIDA << Insere a sobreposição **"Aguarde transmissão** >>
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
 **[Voluntária de infraestrutura :desktop_computer: ]**
 
 1. Informar para a palestrante e apresentadora que o contato será realizado pelo chat privado do StreamYard;
@@ -79,3 +88,14 @@ Avisar que a programação do evento pode ser encontrada no site 2021.pythonbras
 1. Insere vídeo **"Final da palesttra**
 2. Insere a sobreposição **"Aguarde transmissão**
 3. Remove todas as pessoas "da tela"
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+** ⚠️⚠️NUNCA⚠️⚠️ CLICK NESSE BOTÃO SE VOCÊ NÃO FOR DA ORGANIZAÇÃO OU NÃO TIVER CERTEZA SOBRE**
+
+![image](https://user-images.githubusercontent.com/7385097/136955832-dcf38e04-a684-4b54-a6b9-695826c5a297.png)
+
+NA DÚVIDA << Insere a sobreposição **"Aguarde transmissão** >>
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+
