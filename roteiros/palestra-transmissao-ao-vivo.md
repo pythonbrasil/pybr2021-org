@@ -42,8 +42,10 @@ NA DÚVIDA << Insere a sobreposição **"Aguarde transmissão** >>
 1 colocar QR Code na tela.)
 
 **[Apresentadora :woman_juggling: ]**
+
 4. Incentiva a contribuir com a campanha de doação para ONGs que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite; 
-5. Anuncia a palestrante.
+5. Avisa sobre as palestras relâmpago e que o cadastro no canal quero-participar do discord
+6. Anuncia a palestrante.
 
 **[Voluntária de infraestrutura :desktop_computer:]**
 
