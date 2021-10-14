@@ -39,9 +39,8 @@ EN DUDA << Inserta la superposición **"Aguarde transmissão** >>
 ([Voluntária de infraestrutura desktop_computer] 1 poner QR Code en la pantalla.)
 
 5. Anima a contribuir con la campaña de donaciones para las ONG "Mães da favela" que ayuda madres barrios pobres de Brasil. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
-6. Anuncia sobre charga relampagos e cadastro no canal #quero-participar
-7. Avisa sobre as palestras relâmpago e que o cadastro no canal quero-participar do discord. Hoje haverá palestra relâmpago a partir das 17h30 na trilha Angélica Ross e as 19h50 no link da Keynote.
-8. Avisar sobre Assembleia anual PyLadies Brasil que acontecerá sábado as 18h15 no Discord do evento. Essa assembleia é exclusiva para mulheres e TODAS são bem vindas para conversar sobre as comunidades locais, confraternizar e trocar ideias para os próximos passos das comunidades PyLadies no Brasil
+6. Anima la gente a inscriborse a dar una charga relampagos en el canal #quero-participar. Hoy tendremos 2 rondas, una a las 17h30 en la sección Angélica Ross e otra a las 19h50 en el enlace de la keynote.
+8. Invita a todas las mujeres del evento a participar en la Assembleia anual PyLadies Brasil que se impartirá sábado a las 18h15 no canal mesa-pyladies Discord do evento. Essa assembleia es exclusiva para mujeres y TODAS son muy bienvenidas para hablar acerca de nuestra comunidad. Es un momento para confraternizar, compartir ideas y planear los próximos pasos de las comunidad PyLadies de Brasil
 9. Anuncia a la ponente.
 
 **[Voluntaria de infraestructura :desktop: ]**
