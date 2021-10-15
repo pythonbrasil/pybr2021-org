@@ -11,16 +11,19 @@
 
 - **Voluntária de infraestrutura :desktop_computer:** deve adicionar a **Big Kahuna** na tela antes do contador acabar.
 
-- **Big Kahuna** dar boa noite a todas as pessoas. Hoje é dia da professora/professor, então gostaria de parabenizar a todas as professoras e professores e todas as ministrantes de tutoriais, palestras, oficinais e atividades das comunidades locais, que proporcionam momentos de trocas de conhecimento e fazem essa comunidade Python Brasil viva.
+- **Big Kahuna** dar boa noite a todas as pessoas. Dizer seu nome;
+- Realiza sua autodescrição (exemplo: Sou uma mulher negra, meus cabelos são cacheados e estão soltos, uso óculos e estou usando uma blusinha de alça estampada). Descreva apenas como você está se vendo no vídeo, a ideia é que todas as pessoas saibam o que está aparecendo na tela;
+
+- Hoje é dia da professora/professor, então gostaria de parabenizar a todas as professoras e professores e todas as ministrantes de tutoriais, palestras, oficinais e atividades das comunidades locais, que proporcionam momentos de trocas de conhecimento e fazem essa comunidade Python Brasil viva.
+
+- Incentiva a contribuir com a campanha de doação para o projeto que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite;
+
+- Convida para participar dos tutoriais e sprints do final de semana.
+
+- Avisar sobre Assembleia anual PyLadies Brasil que acontecerá sábado as 18h15 no Discord do evento. Essa assembleia é exclusiva para mulheres e TODAS são bem vindas para conversar sobre as comunidades locais, confraternizar e trocar ideias para os próximos passos das comunidades PyLadies no Brasil
 
 - Informar que esta cerimônia de encerramento, que será em 3 partes: entrega do prêmio Dorneles Treméa/Jean Ferri, depois o convite para a Python Brasil 2022 e apresentação da organização desse ano.
 
-- Cumprimenta as pessoas, dá boas vindas ao evento Python Brasil 2021 e agradece a participação de todas;
-- Dizer seu nome;
-- Realiza sua autodescrição (exemplo: Sou uma mulher negra, meus cabelos são cacheados e estão soltos, uso óculos e estou usando uma blusinha de alça estampada). Descreva apenas como você está se vendo no vídeo, a ideia é que todas as pessoas saibam o que está aparecendo na tela;
-- Incentiva a contribuir com a campanha de doação para o projeto que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite;
-- Convida para participar dos tutoriais e sprints do final de semana.
-- Avisar sobre Assembleia anual PyLadies Brasil que acontecerá sábado as 18h15 no Discord do evento. Essa assembleia é exclusiva para mulheres e TODAS são bem vindas para conversar sobre as comunidades locais, confraternizar e trocar ideias para os próximos passos das comunidades PyLadies no Brasil
 
 - Chama o Presidente da ApyB e passa a palavra
 
@@ -30,8 +33,7 @@
     - vídeo: 1 minuto
     - Chamar Nilo (@lskbr) e @julianyraiol
 
-- apresentação da organização (2 minutos)
-    - Alynne na tela chamando itens
+- apresentação da organização (2 minutos) 
     - mostrar foto de todas as integrantes da Organização
     - Foto do evento (vídeo do @rougeth)
     
@@ -63,7 +65,7 @@
     
 - Dados & Doações (2 minutos)
     - Agradecer as doações
-    - De prestação de contas (até o momento da live)
+    - De prestação de contas (até o momento da live). Informar que a doação via EventBrite pode ser realizada até domingo
     - Falar que iremos prestar contas nas redes sociais
     
 - Aviso livros das palestras relâmpago (2 minutos)
