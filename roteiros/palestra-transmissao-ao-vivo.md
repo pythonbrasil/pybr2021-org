@@ -43,8 +43,8 @@ NA DÚVIDA << Insere a sobreposição **"Aguarde transmissão** >>
 
 **[Apresentadora :woman_juggling: ]**
 
-4. Incentiva a contribuir com a campanha de doação para ONGs que Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite; 
-5. Informar que as inscrições para tutoriais estão abertas (abriram as 15h) no Discord. Busque o canal do tutorial desejado e leia as instruções. Lembrando que só pode se inscrever em 1 tutorial.
+4. Incentiva a contribuir com a campanha de doação para projeto Mães da Favela. Informa que existe QR Code na tela e possibilidade de doação através do EventBrite; 
+5. Informar que as inscrições para tutoriais estão abertas no Discord. Busque o canal do tutorial desejado e leia as instruções. Lembrando que só pode se inscrever em 1 tutorial do evento. Informar que os tutoriais terão intérprete de libras sob solicitação, então a participante que desejar esse serviço deverá solicitar marcando @Organização no canal #geral
 6. Avisar sobre Assembleia anual PyLadies Brasil que acontecerá sábado as 18h15 no Discord do evento. Essa assembleia é exclusiva para mulheres e TODAS são bem vindas para conversar sobre as comunidades locais, confraternizar e trocar ideias para os próximos passos das comunidades PyLadies no Brasil
 7. Anuncia a palestrante.
 
