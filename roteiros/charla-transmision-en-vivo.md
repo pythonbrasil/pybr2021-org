@@ -39,7 +39,7 @@ EN DUDA << Inserta la superposición **"Aguarde transmissão** >>
 ([Voluntária de infraestrutura desktop_computer] 1 poner QR Code en la pantalla.)
 
 5. Anima a contribuir con la campaña de donaciones para las proyecto "Mães da favela" que ayuda madres barrios pobres de Brasil. Informa que hay un código QR en la pantalla y la posibilidad de donar a través de EventBrite.
-5. Informe que las inscripciones de los talleres están abiertas en el Discord. Busque el canal del tutorial que deseas y siga las instrucciones. Recuerde que solo puedes inscribirte en 1 taller
+5. Informe que las inscripciones de los talleres están abiertas en el Discord. Busque el canal del tutorial que deseas y siga las instrucciones. Recuerde que solo puedes inscribirte en 1 taller del evento. Informar que los talleres tendrán intérprete de seña para los participantes que lo solicitaron. Entonces los que desearen, por favor, marca la @Organização en el canal #geral con la solicitud
 8. Invita a todas las mujeres del evento a participar en la Assembleia anual PyLadies Brasil que se impartirá sábado a las 18h15 no canal mesa-pyladies Discord do evento. Essa assembleia es exclusiva para mujeres y TODAS son muy bienvenidas para hablar acerca de nuestra comunidad. Es un momento para confraternizar, compartir ideas y planear los próximos pasos de las comunidad PyLadies de Brasil
 9. Anuncia a la ponente.
 
