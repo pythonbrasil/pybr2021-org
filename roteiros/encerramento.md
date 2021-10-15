@@ -71,7 +71,8 @@
 - Aviso livros das palestras relâmpago (2 minutos)
     - São 18 livros. Responder em até uma semana (22 out.) pelo privado do discord
     
-- Agradecimento geral (só Alynne com slide das fotos da organizacao)
+- Agradecimento geral (Alynne sozinha na tela)
+- Vídeo **Final de palestra**
 
 ** Roteiro originado na [Issue 225](https://github.com/pythonbrasil/pybr2021-org/issues/225)
 
