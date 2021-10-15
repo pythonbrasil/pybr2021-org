@@ -72,7 +72,8 @@
     
 - Aviso livros das palestras relâmpago (2 minutos)
     - São 18 livros. Responder em até uma semana (22 out.) pelo privado do discord
-    
+
+- Avisa que tem Algorave as 22hs (youtube e discord) e convida as pessoas a interagir pelo discord
 - Agradecimento geral (Alynne sozinha na tela)
 - Vídeo **Final de palestra**
 
