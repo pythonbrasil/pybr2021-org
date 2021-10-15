@@ -52,6 +52,8 @@
     - Timnit Gebru
     - Angelica Ross 
     - Bonnie Prado Pinto
+    
+**- Chamar Gabu** (manter Alynne na tela)
 
 - Automatizações e bots (3 minutos)
     - adicionar links (@gabubellon, @rougeth)
