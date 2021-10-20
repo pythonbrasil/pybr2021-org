@@ -2,8 +2,7 @@ import os
 import random
 from time import sleep
 
-inscritos = [
-]
+inscritos = []
 
 print("###INSCRITOS##")
 novos_inscritos=[]
@@ -20,7 +19,7 @@ input("\nAjustando index...")
 random.shuffle(novos_inscritos)
 clear()
 
-input("Refatorando orde index..")
+input("Refatorando ordem dos index..")
 random.shuffle(novos_inscritos)
 clear()
 
