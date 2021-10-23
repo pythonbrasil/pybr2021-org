@@ -2,7 +2,26 @@
 
 # Post Mortem Python Brasil 2021
 
-- Comemos bola com a grade e esquecemos de inicio o encerrramento
+## Item: Durante a organização não prestamos atenção devida a grade de eventos
+- Declarante :@gabubbellon
+
+### Acontecimentos e Impactos em Ordem Cronologica (o mais exato possível)
+
+1. Grade de horários foi planejada inicialmente sem horários de encerramento e APyB;
+2. Cotação de Libras foi realizada com a grade de forma errada;
+3. Grade foi refeita e aprovada;
+4. Cotação de Libras ajustada e aprovada
+
+#### Impacto:
+
+1.Impacto em orçamentos
+2.Planejamento dos fornecedores de Libras
+3.Planejamento nos convites de palestrantes
+
+##### Solucionado ? Se sim como :
+
+**Solucionado**:
+Grade refeita e orçamentos refeitos, podiamos ter tido impactos financeiros e de palestras caso não existisse tempo hábil
 
 - Problematica com Juridico e financiero com patrocinadores @tiidadavena
 
