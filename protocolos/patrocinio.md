@@ -2,28 +2,28 @@
 
 ### 🎟 Tickets no Helpdesk
 
-1. #7003 - Renan Martins 🥇- Luiza Labs (analisando as propostas de alteração da empresa)
-2. #6964 - Mario Queiroz 🥇- JusBrasil (form de submissão de atividades)
-3. #7024 - Gustavo Morada 🥇 - Carta (doc em avaliação pelo Compliance interno - enviar email com andamento - forms do patrocinadores enviados)
-4. #7038 - Abraão Buser 🥈- Buser (pagamento recebido - envio do form )  
-5. #7118 - Leandro Viña 🥈 - Mercado Livre (enviar contrato para avaliação)
-6. #7119 - Gustavo Didomenico 🥈- Ebury (contrato assinado - traduzindo o contrato para inglês )
-7. #7212 - Carla Uller 🥉- AmbevTech (aguardando parecer sobre o nosso modelo de contrato)
-    1. #7261 - Luana Gilli - Setor Compras  
-8. #7233 - Diego Samur 🥈 - Uber by Cornershop (email em inglês enviado para eles)
-9. #7276 - Rafaele Lima ? - Alura - desistiu de apoiar o evento
+1. #7003 - Luiza Labs 🥇 (analisando as propostas de alteração da empresa)
+2. #6964 - JusBrasil 🥇-  (form de submissão de atividades)
+3. #7024 - Carta 🥇 -  (doc em avaliação pelo Compliance interno - enviar email com andamento - forms do patrocinadores enviados)
+4. #7038 - Buser 🥈-  (pagamento recebido - envio do form )  
+5. #7118 - Mercado Livre 🥈 -  (enviar contrato para avaliação)
+6. #7119 - Ebury 🥈-  (contrato assinado - traduzindo o contrato para inglês )
+7. #7212 - AmbevTech 🥉-  (aguardando parecer sobre o nosso modelo de contrato)
+    1. #7261 - Setor Compras 
+8. #7233 - Uber by Cornershop 🥈 -  (email em inglês enviado para eles)
+9. #7276 - RAlura ? - desistiu de apoiar o evento
 
-1. ~~#7249 - Alan - Magarathea Labs (Gabu Enviou a devolutiva)~~
-2. ~~#7220 - Julia Favere - Vanhack (Ana Cecília mandou email de contato)~~
+1. ~~#7249 - Magarathea Labs (Gabu Enviou a devolutiva)~~
+2. ~~#7220 - Vanhack (Ana Cecília mandou email de contato)~~
 
 Convidar as empresas patrocinadoras para que estas incentivem os seus funcionários a submeterem palestras, com assuntos relacionados à Python, carreira em TI
 
 ---
 
-#6940 - Jessica Borsari - Zé Delivery (email enviado para eles, mas sem retorno) 
-#6893 - Beatriz Fernandes - IBM (email enviado para eles, mas sem retorno) 
+#6940 - Zé Delivery (email enviado para eles, mas sem retorno) 
+#6893 - IBM (email enviado para eles, mas sem retorno) 
 
-#7125 - Andreza Rocha - Afroyá (informaram que não tem condições de seguir com o patrocínio, mas fizeram a ponte com a Vanhack)
+#7125 - Afroyá (informaram que não tem condições de seguir com o patrocínio, mas fizeram a ponte com a Vanhack)
 
 ### 📄 Submissão das atividades das patrocinadoras
 
